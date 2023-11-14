@@ -20,7 +20,12 @@ I'm a junior developer. I have bachelor degree in C++ and average knowledge of P
 </p>
 
 ##### Frontend
+<p align="left">
+<a><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/2%20Frontend/HTML5.svg" width="36" height="36" alt="C" /></a><a<pre>
 
+
+
+</p>
 ##### Database
 
 ##### Software
