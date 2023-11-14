@@ -26,13 +26,29 @@ I'm a junior developer. I have bachelor degree in C++ and average knowledge of P
 
 ##### Database
 <p align="left">
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/3%20Database/Firebase.svg" width="36" height="36" alt="C" /></a><a
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/3%20Database/Firebase.svg" width="36" height="36" alt="Firebase" /></a><a
 </p>
 
 ##### Software
-
+<p align="left">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/4%20Software/Figma.svg" width="36" height="36" alt="Figma" /></a><a<pre>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/4%20Software/Adobe_Photoshop.svg" width="36" height="36" alt="Photoshop" /></a><a
+</p>
+  
 ##### Gamedev
-
+<p align="left">
+<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/5%20Gamedev/Unity.svg" width="36" height="36" alt="Unity" /></a><a<pre>
+<a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/5%20Gamedev/Unreal_Engine.svg" width="36" height="36" alt="Unreal Engine" /></a><a<pre>
+<a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/5%20Gamedev/aseprite.svg" width="36" height="36" alt="Asperite" /></a><a<pre>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/5%20Gamedev/blender.svg" width="36" height="36" alt="Blender" /></a><a
+</p>
+  
 ### Contacts
-
+<p align="left">
+<a href="mailto:ianton2525@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/6%20Contacts/Gmail.svg" width="36" height="36" alt="Gmail" /></a><a<pre>
+<a href="https://www.linkedin.com/in/anton-plishkin/" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/6%20Contacts/LinkedIn.svg" width="36" height="36" alt="LinkedIn" /></a><a<pre>
+<a href="https://t.me/Anculo" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/6%20Contacts/Telegram.svg" width="36" height="36" alt="Telegram" /></a><a<pre>
+<a href="https://www.facebook.com/anton.plishkin.sherman" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/6%20Contacts/Facebook.svg" width="36" height="36" alt="Facebook" /></a><a<pre>
+<a href="https://discord.com/users/yenott" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/6%20Contacts/discord.svg" width="36" height="36" alt="Discord" /></a><a
+</p>
 
