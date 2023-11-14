@@ -12,7 +12,9 @@ I'm a junior developer. I have bachelor degree in C++ and average knowledge of P
 
 ##### Core
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/C.svg" width="36" height="36" alt="C" /></a><a</p>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/C.svg" width="36" height="36" alt="C" /></a><a
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/C%2B%2B.svg" width="36" height="36" alt="C++" /></a><a                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                </p>
 
 ##### Frontend
 
