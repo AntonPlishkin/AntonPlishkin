@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-I'm a junior developer. I have bachelor degree in C++ and average knowledge of Python, HTML, JS and GS languages.
+I'm a junior developer. 
 
-* ✉️  You can contact me at [ianton2525@gmail.com](mailto:ianton2525@gmail.com)
 
 ### Skills
 
