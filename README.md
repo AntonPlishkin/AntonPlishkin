@@ -9,7 +9,7 @@ I'm a junior developer.
 
 ### Skills
 
-##### &nbsp Core
+##### Core
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/C.svg" width="42" height="42" alt="C" /></a><a<pre>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/C%2B%2B.svg" width="42" height="42" alt="C++"/></a><a<pre>
