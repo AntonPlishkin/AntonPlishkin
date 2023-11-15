@@ -10,7 +10,30 @@ I'm a junior developer.
 ### Skills
 
 ##### Core
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Тег table</title>
+  <style>
+   table {
+    width: 100%; /* Ширина таблицы */
+    background: white; /* Цвет фона таблицы */
+    color: white; /* Цвет текста */
+    border-spacing: 1px; /* Расстояние между ячейками */
+   }
+   td, th {
+    background: maroon; /* Цвет фона ячеек */
+    padding: 5px; /* Поля вокруг текста */
+   }
+  </style>
+ </head> 
+ <body>
+  <table>
+   <tr><th>Заголовок 1</th><th>Заголовок 2</th></tr>
+   <tr><td>Ячейка 3</td><td>Ячейка 4</td></tr>
+  </table>
+ </body>
+</html>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/C.svg" width="42" height="42" alt="C" /></a><a<pre>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/C%2B%2B.svg" width="42" height="42" alt="C++"/></a><a<pre>
