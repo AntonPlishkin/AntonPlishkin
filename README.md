@@ -11,8 +11,14 @@ I'm a junior developer.
 
 ##### Core
   <table>
-   <tr><th>Заголовок 1</th><th>Заголовок 2</th></tr>
-   <tr><td>Ячейка 3</td><td>Ячейка 4</td></tr>
+   <tr><th>Core</th><th>Заголовок 2</th></tr>
+   <tr><td><p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/C.svg" width="42" height="42" alt="C" /></a><a<pre>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/C%2B%2B.svg" width="42" height="42" alt="C++"/></a><a<pre>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/C_sharp.svg" width="42" height="42" alt="C#"/></a><a<pre>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/JavaScript.svg" width="42" height="42" alt="JavaScript"/></a><a<pre>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/python.svg" width="42" height="42" alt="Python"/></a><a
+</p></td><td>Ячейка 4</td></tr>
   </table>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/C.svg" width="42" height="42" alt="C" /></a><a<pre>
