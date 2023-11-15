@@ -9,7 +9,7 @@ I'm a junior developer.
 
 ### Skills
 
-##### <pre>Core
+##### &nbsp Core
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/C.svg" width="42" height="42" alt="C" /></a><a<pre>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/C%2B%2B.svg" width="42" height="42" alt="C++"/></a><a<pre>
@@ -18,23 +18,23 @@ I'm a junior developer.
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/python.svg" width="42" height="42" alt="Python"/></a><a
 </p>
 
-##### <pre>Frontend
+##### Frontend
 <p align="left">
 <img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/2%20Frontend/HTML5.svg" width="42" height="42" alt="HTML5" /></a><a
 </p>
 
-##### <pre>Database
+##### Database
 <p align="left">
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/3%20Database/Firebase.svg" width="42" height="42" alt="Firebase" /></a><a
 </p>
 
-##### <pre>Software
+##### Software
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/4%20Software/Figma.svg" width="42" height="42" alt="Figma" /></a><a<pre>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/4%20Software/Adobe_Photoshop.svg" width="42" height="42" alt="Photoshop" /></a><a
 </p>
   
-##### <pre>Gamedev
+##### Gamedev
 <p align="left">
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/5%20Gamedev/Unity.png" width="42" height="42" alt="Unity" /></a><a<pre>
 <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/5%20Gamedev/Unreal_Engine.svg" width="42" height="42" alt="Unreal Engine" /></a><a<pre>
