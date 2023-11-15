@@ -11,21 +11,7 @@ I'm a junior developer.
 
 ##### Core
 <html>
- <head>
-  <meta charset="utf-8">
-  <title>Тег table</title>
-  <style>
-   table {
-    width: 100%; /* Ширина таблицы */
-    background: white; /* Цвет фона таблицы */
-    color: white; /* Цвет текста */
-    border-spacing: 1px; /* Расстояние между ячейками */
-   }
-   td, th {
-    background: maroon; /* Цвет фона ячеек */
-    padding: 5px; /* Поля вокруг текста */
-   }
-  </style>
+
  </head> 
  <body>
   <table>
