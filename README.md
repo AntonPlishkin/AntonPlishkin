@@ -1,14 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anton Plishkin
+Hi! My name is Anton Plishkin
 ======================================================================================================================================
 
-Developer
+Junior Developer
 ---------
 
-I'm a junior developer. 
+I'm a budding developer with a fervent passion for crafting innovative solutions. My code serves as my creative expression, seamlessly blending efficiency with functionality.
 
+About Me
+🚀 I'm a junior developer, enthusiastic about delving into new technologies and bringing forth exciting projects.
+🎓 I possess foundational skills in various programming languages, including C, C++, C#, JavaScript, and Python.
+
+Feel free to contact me or explore more about my skills below.
 
 ### Skills
-
 ##### Core
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/1%20Core/C.svg" width="42" height="42" alt="C" /></a><a<pre>
