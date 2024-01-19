@@ -11,6 +11,7 @@ As a budding QA Engineer, I am passionate about crafting innovative solutions. I
 Also:
 
 🚀 I'm a junior developer, enthusiastic about delving into new technologies and bringing forth exciting projects.
+
 🎓 I possess foundational skills in various programming languages, including C, C++, C#, JavaScript, and Python.
 
 Feel free to contact me or explore more about my skills below.
