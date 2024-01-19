@@ -52,7 +52,7 @@ Feel free to contact me or explore more about my skills below.
   
 ### Contacts
 <p align="left">
-<a href="mailto:ianton2525@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/6%20Contacts/Gmail.svg" width="42" height="42" alt="Gmail" /></a><a<pre>
+<a href="mailto:a.p.plishkin@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/6%20Contacts/Gmail.svg" width="42" height="42" alt="Gmail" /></a><a<pre>
 <a href="https://www.linkedin.com/in/anton-plishkin/" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/6%20Contacts/LinkedIn.svg" width="42" height="42" alt="LinkedIn" /></a><a<pre>
 <a href="https://t.me/Anculo" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/6%20Contacts/Telegram.svg" width="42" height="42" alt="Telegram" /></a><a<pre>
 <a href="https://www.facebook.com/anton.plishkin.sherman" target="_blank" rel="noreferrer"><img src="https://github.com/AntonPlishkin/AntonPlishkin/blob/main/Assets/6%20Contacts/Facebook.svg" width="42" height="42" alt="Facebook" /></a><a<pre>
