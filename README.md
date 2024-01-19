@@ -1,12 +1,14 @@
 Hi! My name is Anton Plishkin
 ======================================================================================================================================
 
-Junior Developer
+QA Engineer & Junior Developer
 ---------
 
 I'm a budding developer with a fervent passion for crafting innovative solutions. My code serves as my creative expression, seamlessly blending efficiency with functionality.
 
 About Me
+As a budding QA Engineer, I am passionate about crafting innovative solutions. I am enthusiastic about exploring new technologies and creating exciting projects. With a strong foundation in Software QA and experience in development, I am confident in my skills to deliver quality results.
+Also:
 🚀 I'm a junior developer, enthusiastic about delving into new technologies and bringing forth exciting projects.
 🎓 I possess foundational skills in various programming languages, including C, C++, C#, JavaScript, and Python.
 
